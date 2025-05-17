@@ -1,0 +1,14 @@
+header{
+background-color: rgb(77, 70, 70);    
+}
+body{
+ background-color: rgb(61, 67, 72);   
+}
+footer{
+  background-color: rgb(216, 11, 11);  
+}
+img{
+height: 300px;
+width: 310px;
+margin: 20px;
+}
